@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do curso de HTML e CSS ministrado por **Daniel Tapias Morales**.
 
-📚 **Seção 7 - Projeto 3**
+📚 **Seção 7 - Projeto: Desafio Cards**
 
 ## 💻 Sobre o Projeto
 
